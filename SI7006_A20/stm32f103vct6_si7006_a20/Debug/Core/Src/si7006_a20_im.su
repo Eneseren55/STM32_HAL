@@ -1,0 +1,5 @@
+si7006_a20_im.c:11:10:convert_to_uint16	16	static
+si7006_a20_im.c:16:10:readSI7006_A20_IM	32	static
+si7006_a20_im.c:31:7:readTemperature	32	static
+si7006_a20_im.c:40:7:readHumidity	32	static
+si7006_a20_im.c:57:6:readTemperatureAndHumidity	40	static
